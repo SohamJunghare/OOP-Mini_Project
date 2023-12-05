@@ -1,0 +1,9 @@
+***** Moso's Record *****
+Base Salary  = 10000/-
+Task Bonus   =   0/-
+Task Penalty =   0/-
+
+Total        =   10000/-
+
+            TASK DETAILS:
+Task ID     Duration        Time taken       

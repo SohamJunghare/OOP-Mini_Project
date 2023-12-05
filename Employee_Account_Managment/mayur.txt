@@ -1,0 +1,10 @@
+***** Mayur's Record *****
+Base Salary  = 10000/-
+Task Bonus   =   10/-
+Task Penalty =   70/-
+
+Total        =    9960/-
+
+            TASK DETAILS:
+Task ID     Duration        Time taken
+
